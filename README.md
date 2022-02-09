@@ -1,4 +1,4 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=007EC6)](https://www.linkedin.com/in/benjamin-cunningham-colorado/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=007EC6)](https://www.linkedin.com/in/sixtomg/)
 <br><br>
 **Hello! My name is Sixto M. Garcia.**
 <br>
@@ -49,7 +49,6 @@ I am very proficient with JavaScript and have experience working with technologi
 
 
 <!--
-**my-name-is-ben/my-name-is-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
